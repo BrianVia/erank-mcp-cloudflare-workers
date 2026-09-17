@@ -1,0 +1,7 @@
+node_modules/
+.wrangler/
+.dev.vars
+CODEX-LAST.md
+CODEX-SPEC.md
+dist/
+wrangler.local.jsonc
